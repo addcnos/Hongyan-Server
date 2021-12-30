@@ -27,7 +27,7 @@
 
 为降低试用门槛，我们提供docker集成版本（LaravelS+Swoole+PHP+Gatewaywoker），鉴于开发环境差异，Mysql与Redis，我们极力推荐docker安装后与鸿雁做通信，通过简单配置，即可快速开始鸿雁体验之旅。以下为docker集成版本安装方法： 
 
-1.clone 配置仓库（[https://code.addcn.com/addcn-open/hongyan/im_docker](https://code.addcn.com/addcn-open/hongyan/im_docker)）至本地。 
+1.clone 配置仓库（[https://github.com/addcnos/Hongyan-Docker-ENV.git](https://github.com/addcnos/Hongyan-Docker-ENV)）至本地。 
 
 2.进入配置仓库的根目录，执行以下两条命令，服务即运行成功。 
 
