@@ -68,10 +68,6 @@ PS：为响应客户端快速集成，我们提供多版本sdk，请按需选用
 
 2.4 连接 IM 的 websocket 服务,见 App 客户端集成
 
-#### 加入我们
-
-数睿鸿雁在实践中不断前行，如果你对即时通讯兴趣盎然，并且热衷开源，欢迎你加入我们！
-
 #### 相关资料
 
 ##### [1.数睿鸿雁后端服务文档](https://github.com/addcnos/Hongyan-Server)
@@ -79,3 +75,7 @@ PS：为响应客户端快速集成，我们提供多版本sdk，请按需选用
 ##### [3.数睿鸿雁SDK-Android文档](https://github.com/addcnos/Hongyan-Android-SDK)
 ##### [4.数睿鸿雁SDK-Objective-C文档](https://github.com/addcnos/Hongyan-IOS-SDK)
 ##### [5.数睿鸿雁SDK-Web文档](https://github.com/addcnos/Hongyan-Web-SDK)
+
+#### 加入我们
+
+数睿鸿雁在实践中不断前行，如果你对即时通讯兴趣盎然，并且热衷开源，欢迎你加入我们！
