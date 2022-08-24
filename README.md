@@ -1,4 +1,5 @@
-![Hongyan-logo (1)](https://user-images.githubusercontent.com/9858714/186065048-af4209ff-a76b-48ea-8c55-b92ee187a331.png)
+![鸿雁logo](https://user-images.githubusercontent.com/9858714/186350999-7f8d2df4-2125-4946-8235-ed9eee239373.png)
+
 ![LICENSE](https://img.shields.io/badge/License-MIT-orange)
 ![Language](https://img.shields.io/badge/Language-PHP-blue.svg)
 ![Stable](https://img.shields.io/badge/Stable-v1.0.0-brightgreen.svg)
